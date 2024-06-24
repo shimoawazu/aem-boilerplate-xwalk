@@ -2,4 +2,4 @@ mountpoints:
   /:
     url: "https://author-p51452-e1349926.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
     type: "markup"
-    suffix: ".html"
+    suffix: ".html?wcmmode=disabled"
